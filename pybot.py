@@ -6,7 +6,7 @@ from mainCopy import process_image
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
 cur_id = 0
-token = '5223909518:AAF6FKxnFn8cDUXMIunBIxguPzFYvnyhH7c'
+token = 'UR TOKEN'
 
 storage = MemoryStorage()
 bot = Bot(token=token)
